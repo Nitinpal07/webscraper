@@ -14,6 +14,7 @@ Install the following libraries
 
 ## Running the Script
 1. Run the script as
-    <pre>python3 githubtrending.py</pre>
+    <pre>python3 githubtrending.py</pre> 
+ ![Running Script](https://github.com/Nitinpal07/webscrapper/blob/master/githubtending.JPG)
 
 The trending 25 repository will then be displayed in the terminal.
